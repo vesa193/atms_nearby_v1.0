@@ -1,0 +1,14 @@
+1. // treba pokupiti informacije od klijenta(usera) o trenutnoj poziciji. (registracija za API) 
+
+2. // mora se poslati request na Google Place API(Imaju svoje uputstvo za koriscenje).
+
+3. // mora sve inforamcije o ATMs prikazati korisniku.
+
+4. // treba da se sortira po distanci(u svim tim informacijama treba da se vidi distanca).
+
+5. // filter za multi-currency.
+
+6. // treba izlistati samo 10 najblizih ATMs od trenutne lokacije.
+
+7. // za svaki ATM mora da se posalje requsest da nam vrati nazad mapu.(poslati request na Google Static Maps)
+
